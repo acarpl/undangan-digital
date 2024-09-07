@@ -6,6 +6,9 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+    background: url(images/background7.2.jpg);
+    background-repeat: repeat;
+    
 }
 h1{
     text-align: center;
